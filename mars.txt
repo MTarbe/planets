@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 I decided to consider Venus as a base
 Here is a change that I want to push on GitHub
+This line added to the owner's copy
